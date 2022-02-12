@@ -26,6 +26,9 @@ class WordCountAndTimePlguin
     { ?>
         <div class="wrap">
             <h1>Wprd Count settings</h1>
+            <div class="form_container">
+                Hello
+            </div>
         </div>
 <?php }
 }
